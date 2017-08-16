@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+    
+
+    
+}
+.warapper{
+    width:100%;
+    height: 80%;
+    margin:10px auto;
+    border:1px solid blue;
+    flex-direction: column;
+}
+div{
+border:1px solid red;
+    margin: 5px;
+    flex-grow: 5;
+    padding: 5px;
+}
+.menu{
+    
+    padding: 50px;
+    flex-grow: 1;
+}
+
